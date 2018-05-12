@@ -1,0 +1,12 @@
+
+The program is done in Turbo C++.
+
+The attached program is a reminder system for a database in a medical clinic.
+
+It can Create, Add, Modify, Delete and Display the reminders in it.
+
+The database has Patient Name, Patient No, Age in it.
+
+Here the personal Key is Patient No.
+
+
